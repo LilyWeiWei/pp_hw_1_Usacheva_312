@@ -1,6 +1,6 @@
 from turtle import*
 
-left(180)
+
 pen()
 speed(4000)
 for i in range(180):
